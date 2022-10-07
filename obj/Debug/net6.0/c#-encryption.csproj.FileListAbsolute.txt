@@ -1,0 +1,15 @@
+/home/lynnel/Documents/raptorpos/c#-encryption/bin/Debug/net6.0/c#-encryption
+/home/lynnel/Documents/raptorpos/c#-encryption/bin/Debug/net6.0/c#-encryption.deps.json
+/home/lynnel/Documents/raptorpos/c#-encryption/bin/Debug/net6.0/c#-encryption.runtimeconfig.json
+/home/lynnel/Documents/raptorpos/c#-encryption/bin/Debug/net6.0/c#-encryption.dll
+/home/lynnel/Documents/raptorpos/c#-encryption/bin/Debug/net6.0/c#-encryption.pdb
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.csproj.AssemblyReference.cache
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.GeneratedMSBuildEditorConfig.editorconfig
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.AssemblyInfoInputs.cache
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.AssemblyInfo.cs
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.csproj.CoreCompileInputs.cache
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.dll
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/refint/c#-encryption.dll
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.pdb
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/c#-encryption.genruntimeconfig.cache
+/home/lynnel/Documents/raptorpos/c#-encryption/obj/Debug/net6.0/ref/c#-encryption.dll
